@@ -48,7 +48,7 @@ class PostsNew extends Component {
           component={this.renderTextField}
           />
         <Field
-          type="textarea"
+          type="text"
           label="Content"
           name="content"
           component={this.renderTextField}
